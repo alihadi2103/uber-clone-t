@@ -1,9 +1,5 @@
 <div align="center">
-  <br />
-    <a href="https://youtu.be/kmy_YNhl0mw" target="_blank">
-      <img src="https://i.ibb.co/Bf04Hpd/Readme-thumbnail-from-JS-Mastery.png" alt="Project Banner">
-    </a>
-  <br />
+  
 
   <div>
     <img src="https://img.shields.io/badge/-React_Native-black?style=for-the-badge&logoColor=white&logo=react&color=61DAFB" alt="reactnative" />
@@ -15,9 +11,7 @@
 
 <h3 align="center">Full Stack Uber Clone</h3>
 
-   <div align="center">
-     Build this project step by step with our detailed tutorial on <a href="https://www.youtube.com/@javascriptmastery/videos" target="_blank"><b>JavaScript Mastery</b></a> YouTube. Join the JSM family!
-    </div>
+  
 </div>
 
 ## 📋 <a name="table">Table of Contents</a>
@@ -48,10 +42,6 @@ handling payments, serverless Postgres for managing databases, and styled with T
 mobile app. The primary goal is to demonstrate how to develop full-stack mobile applications to showcase the developer's
 skills in a unique manner that creates a lasting impact.
 
-If you're getting started and need assistance or face any bugs, join our active Discord community with over **34k+**
-members. It's a place where people help each other out.
-
-<a href="https://discord.com/invite/n6EdbFJ" target="_blank"><img src="https://github.com/sujatagunale/EasyRead/assets/151519281/618f4872-1e10-42da-8213-1d69e486d02e" /></a>
 
 ## <a name="tech-stack">⚙️ Tech Stack</a>
 
@@ -1730,18 +1720,3 @@ You can find important links mentioned in the YouTube video below:
 - <a href="https://docs.stripe.com/payments/accept-a-payment?platform=react-native&ui=payment-sheet" target="_blank">
   Stripe React Native SDK</a>
 - <a href="https://docs.stripe.com/payments/accept-a-payment-deferred" target="_blank">Stripe</a>
-
-## <a name="assets">📦 Assets</a>
-
-Assets used in the project can be
-found [here](https://drive.google.com/file/d/1ekttG-aCyy4g0SKqLSrEn_uHf2MJMRJ4/view?usp=sharing)
-
-## <a name="more">🚀 More</a>
-
-**Advance your skills with Next.js Pro Course**
-
-Enjoyed creating this project? Dive deeper into our PRO courses for a richer learning experience. They're packed with detailed explanations, cool features, and exercises to boost your skills. Give it a go!
-
-<a href="https://www.jsmastery.pro/ultimate-next-course" target="_blank">
-<img src="https://i.ibb.co/804sPK6/Image-720.png" alt="Project Banner">
-</a>
