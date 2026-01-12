@@ -16,14 +16,13 @@
 
 ## 📋 <a name="table">Table of Contents</a>
 
-1. 🤖 [Introduction](#introduction)
-2. ⚙️ [Tech Stack](#tech-stack)
-3. 🔋 [Features](#features)
-4. 🤸 [Quick Start](#quick-start)
-5. 🕸️ [Snippets (Code to Copy)](#snippets)
-6. 🖇️ [Links](#links)
-7. 📦 [Assets](#assets)
-8. 🚀 [More](#more)
+
+1. ⚙️ [Tech Stack](#tech-stack)
+2. 🔋 [Features](#features)
+3. 🤸 [Quick Start](#quick-start)
+4. 🕸️ [Snippets (Code to Copy)](#snippets)
+5. 🖇️ [Links](#links)
+
 
 
 
@@ -1696,7 +1695,7 @@ export const useDriverStore = create<DriverStore>((set) => ({
 
 ## <a name="links">🔗 Links</a>
 
-You can find important links mentioned in the YouTube video below:
+You can find important links mentioned :
 
 - <a href="https://www.nativewind.dev/quick-starts/expo" target="_blank">Expo NativeWind Setup</a>
 - <a href="https://www.nativewind.dev/v4/getting-started/typescript" target="_blank">TypeScript Support for
